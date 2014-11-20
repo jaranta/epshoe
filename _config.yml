@@ -20,9 +20,9 @@ repo:             https://github.com/gitkrax/epshoe
 
 # Page list for the page navigation
 pages_list:
-        About: '/about'
-        Scenarios: '/scenarios'
-        Feed: '/atom.xml/'
+        About: '/epshoe/about'
+        Scenarios: '/epshoe/scenarios'
+        Feed: '/epshoe/atom.xml/'
         
 # Collections
 collections:

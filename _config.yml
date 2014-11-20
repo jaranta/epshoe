@@ -22,7 +22,7 @@ repo:             https://github.com/gitkrax/epshoe
 pages_list:
         About: '/about'
         Scenarios: '/scenarios'
-        Feed: '/atom.xml/'
+        Feed: '/atom.xml'
         
 # Collections
 collections:

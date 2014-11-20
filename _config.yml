@@ -1,0 +1,30 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            EclipseSHOE
+tagline:          
+url:              https://gitkrax.github.io/epshoe/
+paginate:         1
+baseurl:          /
+author:
+  name:           Jonne Arjoranta
+  url:            jonne.arjoranta.fi
+  email:          jonne.arjoranta@gmail.com
+
+# Custom vars
+version:          0.0.1
+github:
+repo:             https://github.com/gitkrax/epshoe
+
+# Page list for the page navigation
+pages_list:
+        About: '/about'
+        Scenarios: '/scenarios'
+        Feed: '/atom.xml/'
+        
+# Collections
+collections:
+    scenarios:
+        output: true

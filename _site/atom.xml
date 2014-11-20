@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>EclipseSHOE</title>
+ <link href="https://gitkrax.github.io/epshoe//atom.xml" rel="self"/>
+ <link href="https://gitkrax.github.io/epshoe//"/>
+ <updated>2014-11-20T08:09:28+02:00</updated>
+ <id>https://gitkrax.github.io/epshoe/</id>
+ <author>
+   <name>Jonne Arjoranta</name>
+   <email>jonne.arjoranta@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Version 0.5 update</title>
+   <link href="https://gitkrax.github.io/epshoe///2014/11/19/version0.5/"/>
+   <updated>2014-11-19T00:00:00+02:00</updated>
+   <id>https://gitkrax.github.io/epshoe//2014/11/19/version0.5</id>
+   <content type="html">&lt;p&gt;EclipseSHOE has been updated to version 0.5. This means that it is far from ready, but is taking steps towards being a fully playable game. Already, players familiar with Eclipse Phase should be able to play the game without any difficulties. Later versions of the rules will incorporate more of the Eclipse Phase book, to be properly independent.&lt;/p&gt;
+
+&lt;p&gt;There are also two published Eclipse Phase scenarios that you can play with EclipseSHOE, Continuity and Ego Hunter, with a third one on the way. You still need to read the original scenarios to know what they are about, but the conversions should give enough guidelines for you to be able to play the scenarios with EclipseSHOE.&lt;/p&gt;
+
+&lt;p&gt;Comments and feedback are welcome, both for the core rules and the scenarios.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

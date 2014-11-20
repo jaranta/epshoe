@@ -7,7 +7,7 @@ title:            EclipseSHOE
 tagline:          
 url:              https://gitkrax.github.io/epshoe/
 paginate:         1
-baseurl:          /
+baseurl:          https://gitkrax.github.io/epshoe/
 author:
   name:           Jonne Arjoranta
   url:            jonne.arjoranta.fi

@@ -1,4 +1,10 @@
-# Released under MIT License
+# License for EclipseSHOE and associated materials.
+
+Unless otherwise noted, all the contents of the website all licensed under the Creative Commons BY-NC-SA license.
+
+# License for Poole
+
+## Released under MIT License
 
 Copyright (c) 2013 Mark Otto.
 

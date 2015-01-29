@@ -6,7 +6,8 @@ relative_permalinks: true
 title:            EclipseSHOE
 tagline:          
 url:              https://gitkrax.github.io/epshoe/
-paginate:         1
+paginate:         3
+pagination_path:  page:num # makes pages sub/page2/index.html, sub/page3/index.html, etc
 baseurl:          /epshoe
 author:
   name:           Jonne Arjoranta
@@ -22,6 +23,7 @@ repo:             https://github.com/gitkrax/epshoe
 pages_list:
         About: '/about'
         Scenarios: '/scenarios'
+        Archive: '/archive'
         Feed: '/atom.xml'
         
 # Collections

@@ -4,7 +4,7 @@
 MEXT = md
 
 ## All markdown files in the working directory
-SRC = colophon.$(MEXT) introduction.$(MEXT) timeofeclipse.$(MEXT) character.$(MEXT) rules.$(MEXT) designingscenarios.$(MEXT)
+SRC = colophon.$(MEXT) introduction.$(MEXT) timeofeclipse.$(MEXT) character.$(MEXT) rules.$(MEXT) exsurgents.$(MEXT) designingscenarios.$(MEXT)
 
 ## Location of Pandoc support files.
 PREFIX = $(shell eval echo ~$$USER)/.pandoc

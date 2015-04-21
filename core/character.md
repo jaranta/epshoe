@@ -1671,14 +1671,15 @@ all characters with Demolitions have bombs in their pockets,
 but that they have access to bomb disposal and installation equipment.
 
 Augmentations for starting morphs are handled a bit differently: players 
-can set aside some points from their Preparedness to a special pool for
-personal augmentations. They can use this pool to test for having augmentations 
-on their starting morph at any point in the game. To test for augmentations 
-they must use at least 1 point from that pool. Points can never be 
-added to this pool. Players have a chance of returning any unused
-points to their pool whenever they change morphs. Any further
-augmentations for morphs should be acquired as described in 
-[the rules for gear](#gear).
+receive a special pool for personal augmentations equal to their Resources
+or Preparedness, whichever is higher. They can use this pool to test
+for having augmentations on their starting morph at any point in
+the game. To test for augmentations they must use at least 1 point
+from that pool. Points can never be added to this pool. Players
+have a chance of returning any unused points to their pool whenever
+they change morphs -- if they do not, the points are lost. Any 
+further augmentations for morphs should be acquired as described
+in [the rules for gear](#gear).
 
 ## Motivations
 

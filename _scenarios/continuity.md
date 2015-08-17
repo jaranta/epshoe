@@ -215,8 +215,8 @@ Attack only if forced out of the shadows or forced into a corner.
 
 ###Kepler
 
-![Kepler](/assets/images/kepler.png)
+![Kepler]({{ site.baseurl }}/assets/images/kepler.png)
 
 ###Istari
 
-![Istari](/assets/images/istari.png)
+![Istari]({{ site.baseurl }}/assets/images/istari.png)

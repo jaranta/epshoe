@@ -186,7 +186,11 @@ $if(toc)$
 {
 \hypersetup{linkcolor=$if(toccolor)$$toccolor$$else$black$endif$}
 \setcounter{tocdepth}{$toc-depth$}
+\renewcommand{\baselinestretch}{0.75}\normalsize
+\twocolumn
 \tableofcontents
+\onecolumn
+\renewcommand{\baselinestretch}{1.0}\normalsize
 }
 $endif$
 $if(lot)$

@@ -1,6 +1,3 @@
-% EclipseSHOE | Version 0.5
-% Jonne Arjoranta
-
 This work is based on the GUMSHOE SRD (found at <http://www.pelgranepress.com/?p=12466>),
 a product of Pelgrane Press, developed, written, and edited
 by Robin D. Laws with additional material by Kenneth Hite, and
@@ -19,6 +16,3 @@ Includes material from Glory_ published by Posthuman Studios, LLC. (<http://www.
 and is licensed for our use under the [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-# Contributors
-

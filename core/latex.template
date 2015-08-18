@@ -146,9 +146,6 @@ $endif$
 $if(author)$
 \author{$for(author)$$author$$sep$ \and $endfor$}
 $endif$
-$if(version)$
-$version$
-$endif$
 \date{$date$}
 $for(header-includes)$
 $header-includes$
@@ -168,6 +165,13 @@ $endfor$
 $if(title)$
 \maketitle
 $endif$
+
+$if(version)$
+\begin{center}
+version $version$
+\end{center}
+$endif$
+
 $if(abstract)$
 \begin{abstract}
 $abstract$
@@ -210,6 +214,13 @@ $if(biblatex)$
 \printbibliography$if(biblio-title)$[title=$biblio-title$]$endif$
 
 $endif$
+
+$if(contributors)$
+\clearpage
+\section{List of contributors}
+$contributors$
+$endif$
+
 $for(include-after)$
 $include-after$
 

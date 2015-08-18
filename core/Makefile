@@ -4,11 +4,11 @@
 MEXT = md
 
 ## All markdown files in the working directory
-SRC = colophon.$(MEXT) introduction.$(MEXT) timeofeclipse.$(MEXT) character.$(MEXT) rules.$(MEXT) exsurgents.$(MEXT) designingscenarios.$(MEXT)
+SRC = metadata.yaml colophon.$(MEXT) introduction.$(MEXT) timeofeclipse.$(MEXT) character.$(MEXT) rules.$(MEXT) exsurgents.$(MEXT) designingscenarios.$(MEXT)
 
 all:	EclipseSHOE.pdf
 
-EclipseSHOE.pdf:	$(SRC)
+EclipseSHOE.pdf:	$(SRC) latex.template
 	pandoc --table-of-contents --template=latex.template $(SRC) -o $@
 
 clean:

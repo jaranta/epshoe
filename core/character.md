@@ -1349,6 +1349,8 @@ from atmosphere sensors and ground craft to mainframe computers.
 Given the right components, you can create jury-rigged devices
 from odd bits of scrap.
 
+*Hardware Cherry:* If your Hardware rating is 8 or more, you get 1 free rating point in the Investigative ability Engineering.
+
 ##### Health
 
 Health measures your ability to sustain injuries, resist infection,

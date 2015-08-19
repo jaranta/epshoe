@@ -1408,6 +1408,8 @@ Death.”
 You can hold your own in a hand-to-hand fight, whether you wish
 to kill, knock out, restrain, or evade your opponent.
 
+*Melee Combat Cherry:* If you have 8 or more points in Melee Combat, you can spend 1 point of Melee Combat to evaluate how others compare to you in skill. The GM tells you whether one other characters rating in Melee Combat is below, within 1 point or above your rating.
+
 ##### Palming
 
 Your nimble fingers allow you to unobtrusively manipulate small

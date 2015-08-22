@@ -28,13 +28,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="220.42861"
-     inkscape:cy="310.79215"
+     inkscape:cx="349.00215"
+     inkscape:cy="536.72139"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
-     inkscape:window-width="1757"
+     inkscape:window-width="1501"
      inkscape:window-height="1020"
-     inkscape:window-x="134"
+     inkscape:window-x="372"
      inkscape:window-y="32"
      showgrid="false"
      showguides="false"
@@ -153,6 +153,22 @@
        position="285,185"
        orientation="0,1"
        id="guide9103" />
+    <sodipodi:guide
+       position="205.5,771"
+       orientation="0,1"
+       id="guide3878" />
+    <sodipodi:guide
+       position="503.81803,870.0039"
+       orientation="1,0"
+       id="guide3898" />
+    <sodipodi:guide
+       position="503.81803,927"
+       orientation="1,0"
+       id="guide3900" />
+    <sodipodi:guide
+       position="511.3125,903.625"
+       orientation="1,0"
+       id="guide3902" />
   </sodipodi:namedview>
   <title
      id="title3169">Eclipse Phase / Gumshoe Character Sheet</title>
@@ -990,6 +1006,37 @@
          in2="offset"
          id="feComposite4300-8" />
     </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter4374-3-3-9-5">
+      <feFlood
+         result="flood"
+         flood-color="rgb(0,0,0)"
+         flood-opacity="0.6"
+         id="feFlood4376-1-8-3-1" />
+      <feComposite
+         result="composite1"
+         operator="in"
+         in="flood"
+         in2="SourceGraphic"
+         id="feComposite4378-38-8-0-7" />
+      <feGaussianBlur
+         result="blur"
+         stdDeviation="1"
+         id="feGaussianBlur4380-7-8-0-1" />
+      <feOffset
+         result="offset"
+         dy="2"
+         dx="2"
+         id="feOffset4382-9-2-4-8" />
+      <feComposite
+         result="composite2"
+         operator="over"
+         in="SourceGraphic"
+         in2="offset"
+         id="feComposite4384-71-2-5-6" />
+    </filter>
   </defs>
   <metadata
      id="metadata1906">
@@ -1002,14 +1049,15 @@
         <dc:title>Eclipse Phase / Gumshoe Character Sheet</dc:title>
         <dc:creator>
           <cc:Agent>
-            <dc:title />
+            <dc:title>Jonne Arjoranta</dc:title>
           </cc:Agent>
         </dc:creator>
         <dc:rights>
           <cc:Agent>
-            <dc:title />
+            <dc:title>CC BY-NC-SA 4.0</dc:title>
           </cc:Agent>
         </dc:rights>
+        <dc:date>2015-08-22</dc:date>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1070,24 +1118,24 @@
        id="rect3126-26"
        transform="matrix(0.88793483,0,0,1.0428572,14.705969,-2.6155197)" />
     <rect
-       transform="matrix(0.6689601,0,0,1,165.1715,0)"
-       style="fill:#ffffff;stroke:none;display:inline;filter:url(#filter4374-3)"
+       transform="matrix(0.6689601,0,0,1,165.1715,4.6491623e-5)"
+       style="display:inline;fill:#ffffff;stroke:none;filter:url(#filter4374-3)"
        y="147.36218"
        x="527.84741"
        height="28"
        width="289"
        id="rect3126-7" />
     <rect
-       transform="matrix(0.6689601,0,0,1,164.94707,34.9961)"
-       style="fill:#ffffff;stroke:none;display:inline;filter:url(#filter4374-3-3)"
+       transform="matrix(0.6689601,0,0,1,165.1715,34.833359)"
+       style="display:inline;fill:#ffffff;stroke:none;filter:url(#filter4374-3-3)"
        y="147.36218"
        x="527.84741"
        height="28"
        width="289"
        id="rect3126-7-5" />
     <rect
-       transform="matrix(0.6689601,0,0,1,164.94707,69.43749)"
-       style="fill:#ffffff;stroke:none;display:inline;filter:url(#filter4374-3-3-9)"
+       transform="matrix(0.6689601,0,0,1,165.1715,69.666672)"
+       style="display:inline;fill:#ffffff;stroke:none;filter:url(#filter4374-3-3-9)"
        y="147.36218"
        x="527.84741"
        height="28"
@@ -2717,6 +2765,14 @@
        id="path9101"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccc" />
+    <rect
+       transform="matrix(0.6689601,0,0,1,165.1715,104.49999)"
+       style="display:inline;fill:#ffffff;stroke:none;filter:url(#filter4374-3-3-9-5)"
+       y="147.36218"
+       x="527.84741"
+       height="28"
+       width="289"
+       id="rect3126-7-5-3-3" />
   </g>
   <g
      style="display:inline"
@@ -3413,6 +3469,18 @@
          x="540.23511"
          y="923.0639"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif Bold'">6</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3287-9"
+       y="276.71375"
+       x="404.77637"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Heliotype LET';-inkscape-font-specification:'Heliotype LET Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;font-size:28px;-inkscape-font-specification:'Heliotype LET Bold'"
+         y="276.71375"
+         x="404.77637"
+         id="tspan3289-6"
+         sodipodi:role="line">Morph Attributes</tspan></text>
   </g>
   <ns0:tables
      count="1">

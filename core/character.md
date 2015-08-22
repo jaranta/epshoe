@@ -1381,6 +1381,8 @@ to be. You can:
 Despite its name, Infiltration is as useful for getting out of
 places undetected as if its for getting into them.
 
+*Infiltration Cherry:* If your Infiltration rating is 8 or more, you can automatically open any standard civilian or commercial lock without a test. Complex, specialized or custom locks always require a test to open.
+
 ##### Infosec
 
 You are adept at cracking security systems and bypassing firewalls or stopping them from being cracked. You can:
@@ -1421,6 +1423,8 @@ the very noses of unsuspecting authorities
 * pick pockets
 
 * plant objects on unsuspecting subjects
+
+*Palming Cherry:* If you have 8 or more points in Palming, you can spend points on Palming tests after rolling the die, at the cost of 2 points for 1 point increase in die result.
 
 ##### Preparedness
 
@@ -1492,6 +1496,8 @@ When more than one player is able to make a Sense Trouble test, the group decide
 You’re adept with shooting all kinds of weapons from kinetic
 weapons to spray and beam weapons.
 
+*Shooting Cherry:* If you have 8 or more points in Shooting, you can spend 2 points to shoot to up to twice the normal range of the gun you are using without penalties.
+
 ##### Shuttle Craft
 
 You’re adept at flying craft used in and around celestial objects
@@ -1526,6 +1532,8 @@ favors or equipment from contacts. Unlike most other General
 Abilities, Networking Abilities use a Toll Test and they often
 double as Investigative Abilities. See [Using Networking Abilities and
 Resources](#networking-and-resources) for more information.
+
+*Networking Cherry:* All Networking Abilities have the same Cherry. You only get it once, regardless of how many of them have at 8 or more points. A character with the Networking Cherry can try a Networking test with a Difficulty of 2 less once per game session.
 
 Networking comes in the following flavors:
 

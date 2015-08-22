@@ -8,7 +8,7 @@ You can contribute by playtesting, commenting and giving [feedback](http://bit.l
 
 The project is written in the [pandoc](http://johnmacfarlane.net/pandoc/) variant of [markdown](http://daringfireball.net/projects/markdown/), and is converted from markdown to pdf using pandoc.
 
-You can check out the Github issues for ways to contribute. Clone the project, make the changes needed, and add your name in the list of contributors in the colophon. Create a pull request and I will merge your changes.
+You can check out the Github issues for ways to contribute. See the `devel`-branch for more info.
 
 # Download
 You can download the latest version of EclipseSHOE as a zip-file from links shown.

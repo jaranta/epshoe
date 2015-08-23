@@ -12,7 +12,7 @@ You can create the files yourself by using the makefiles in the `core` and `scen
 
 * `make` or `winmake`
 * `pandoc`
-* some `latex` distribution
+* some `latex` distribution + some additional packages (at least `wallpaper`, `tikzpagenodes` and `atbegshi`)
 
 You can check out the Github issues for ways to contribute. Clone the project, make the changes needed, and add your name in the list of contributors in the metadata. Create a pull request and I will merge your changes.
 

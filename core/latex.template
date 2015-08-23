@@ -71,6 +71,17 @@ $endif$
             linkcolor=$if(linkcolor)$$linkcolor$$else$magenta$endif$,
             pdfborder={0 0 0}}
 \urlstyle{same}  % don't use monospace font for urls
+\usepackage{wallpaper} % needed to set the wallpaper
+% tikz and atbegshi are used to set the text area white
+\usepackage{tikzpagenodes} 
+\usepackage{atbegshi}
+% define a new command to fill text area background with white
+\newcommand\ColorTextArea{%
+\begin{tikzpicture}[remember picture,overlay]
+\fill[white] 
+  ([xshift=-1cm,yshift=-1cm]current page header area.north west) rectangle ([xshift=1cm,yshift=-1cm]current page footer area.south east);
+\end{tikzpicture}%
+}
 $if(lang)$
 \ifxetex
   \usepackage{polyglossia}
@@ -162,6 +173,9 @@ $endfor$
 \fi
 
 \begin{document}
+
+\ThisCenterWallPaper{1.2}{img/earth-eclipse.jpg}
+{\color{white}
 $if(title)$
 \maketitle
 $endif$
@@ -171,6 +185,7 @@ $if(version)$
 version $version$
 \end{center}
 $endif$
+}
 
 $if(abstract)$
 \begin{abstract}
@@ -180,8 +195,12 @@ $endif$
 
 $for(include-before)$
 $include-before$
-
 $endfor$
+
+\CenterWallPaper{}{img/background.png} % set the backgound for the rest of the book
+\AtBeginShipout{\ColorTextArea} % color the text area -- \ColorTextArea is defined above
+\AtBeginShipoutFirst{\ColorTextArea}
+
 $if(toc)$
 {
 \hypersetup{linkcolor=$if(toccolor)$$toccolor$$else$black$endif$}

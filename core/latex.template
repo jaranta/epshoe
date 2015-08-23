@@ -71,17 +71,6 @@ $endif$
             linkcolor=$if(linkcolor)$$linkcolor$$else$magenta$endif$,
             pdfborder={0 0 0}}
 \urlstyle{same}  % don't use monospace font for urls
-\usepackage{wallpaper} % needed to set the wallpaper
-% tikz and atbegshi are used to set the text area white
-\usepackage{tikzpagenodes} 
-\usepackage{atbegshi}
-% define a new command to fill text area background with white
-\newcommand\ColorTextArea{%
-\begin{tikzpicture}[remember picture,overlay]
-\fill[white] 
-  ([xshift=-1cm,yshift=-1cm]current page header area.north west) rectangle ([xshift=1cm,yshift=-1cm]current page footer area.south east);
-\end{tikzpicture}%
-}
 $if(lang)$
 \ifxetex
   \usepackage{polyglossia}
@@ -90,16 +79,6 @@ $if(lang)$
 \else
   \usepackage[$lang$]{babel}
 \fi
-$endif$
-$if(natbib)$
-\usepackage{natbib}
-\bibliographystyle{$if(biblio-style)$$biblio-style$$else$plainnat$endif$}
-$endif$
-$if(biblatex)$
-\usepackage{biblatex}
-$for(bibliography)$
-\addbibresource{$bibliography$}
-$endfor$
 $endif$
 $if(listings)$
 \usepackage{listings}
@@ -110,10 +89,11 @@ $endif$
 $if(highlighting-macros)$
 $highlighting-macros$
 $endif$
-$if(verbatim-in-note)$
-\usepackage{fancyvrb}
-\VerbatimFootnotes
-$endif$
+
+%----------------------------------------
+% Tables and graphics
+%----------------------------------------
+
 $if(tables)$
 \usepackage{longtable,booktabs}
 $endif$
@@ -128,15 +108,22 @@ $if(graphics)$
 % using explicit options in \includegraphics[width, height, ...]{}
 \setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
 $endif$
-$if(links-as-notes)$
-% Make links footnotes instead of hotlinks:
-\renewcommand{\href}[2]{#2\footnote{\url{#1}}}
-$endif$
-$if(strikeout)$
-\usepackage[normalem]{ulem}
-% avoid problems with \sout in headers with hyperref:
-\pdfstringdefDisableCommands{\renewcommand{\sout}{}}
-$endif$
+\usepackage{wallpaper} % needed to set the wallpaper
+% tikz and atbegshi are used to set the text area white
+\usepackage{tikzpagenodes} 
+\usepackage{atbegshi}
+% define a new command to fill text area background with white
+\newcommand\ColorTextArea{%
+\begin{tikzpicture}[remember picture,overlay]
+\fill[white] 
+  ([xshift=-1cm,yshift=-1cm]current page header area.north west) rectangle ([xshift=1cm,yshift=-1cm]current page footer area.south east);
+\end{tikzpicture}%
+}
+
+%----------------------------------------
+% Define text layout
+%----------------------------------------
+
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{6pt plus 2pt minus 1pt}
 \setlength{\emergencystretch}{3em}  % prevent overfull lines
@@ -148,8 +135,25 @@ $else$
 \setcounter{secnumdepth}{0}
 $endif$
 $if(verbatim-in-note)$
+\usepackage{fancyvrb}
+\VerbatimFootnotes
+$endif$
+$if(verbatim-in-note)$
 \VerbatimFootnotes % allows verbatim text in footnotes
 $endif$
+$if(links-as-notes)$
+% Make links footnotes instead of hotlinks:
+\renewcommand{\href}[2]{#2\footnote{\url{#1}}}
+$endif$
+$if(strikeout)$
+\usepackage[normalem]{ulem}
+% avoid problems with \sout in headers with hyperref:
+\pdfstringdefDisableCommands{\renewcommand{\sout}{}}
+$endif$
+
+%----------------------------------------
+% Define front-matter
+%----------------------------------------
 
 $if(title)$
 \title{$title$$if(subtitle)$\\\vspace{0.5em}{\large $subtitle$}$endif$}
@@ -158,6 +162,7 @@ $if(author)$
 \author{$for(author)$$author$$sep$ \and $endfor$}
 $endif$
 \date{$date$}
+
 $for(header-includes)$
 $header-includes$
 $endfor$
@@ -171,6 +176,10 @@ $endfor$
 \let\oldsubparagraph\subparagraph
 \renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
 \fi
+
+%----------------------------------------
+% Begin content
+%----------------------------------------
 
 \begin{document}
 
@@ -186,12 +195,6 @@ version $version$
 \end{center}
 $endif$
 }
-
-$if(abstract)$
-\begin{abstract}
-$abstract$
-\end{abstract}
-$endif$
 
 $for(include-before)$
 $include-before$
@@ -212,30 +215,14 @@ $if(toc)$
 \renewcommand{\baselinestretch}{1.0}\normalsize
 }
 $endif$
+
+$body$
+
 $if(lot)$
 \listoftables
 $endif$
 $if(lof)$
 \listoffigures
-$endif$
-$body$
-
-$if(natbib)$
-$if(bibliography)$
-$if(biblio-title)$
-$if(book-class)$
-\renewcommand\bibname{$biblio-title$}
-$else$
-\renewcommand\refname{$biblio-title$}
-$endif$
-$endif$
-\bibliography{$for(bibliography)$$bibliography$$sep$,$endfor$}
-
-$endif$
-$endif$
-$if(biblatex)$
-\printbibliography$if(biblio-title)$[title=$biblio-title$]$endif$
-
 $endif$
 
 $if(contributors)$

@@ -1524,6 +1524,8 @@ can be used to acquire goods and services.
 
 Resources can also be combined, forming a shared Resource rating.
 
+*Resources Cherry:* If you have 8 or more points in Resources, you can try a Resources test with a Difficulty of 2 less once per game session.
+
 ### Networking Abilities
 
 There are 7 different networking Abilities, but they all work

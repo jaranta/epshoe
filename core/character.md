@@ -1397,6 +1397,8 @@ You are adept at cracking security systems and bypassing firewalls or stopping t
 
 *Infosec Cherry:* If your Infosec rating is 8 or more, you get 1 free rating point in the Investigative ability Cryptography. You can also encrypt your team’s electronic communications against all but highest level cracking.
 
+See [Misusing the Mesh](#misusing-the-mesh) for more information on how to use Infosec.
+
 ##### Medic
 
 You can perform first aid on sick or injured individuals. For

@@ -1883,6 +1883,190 @@ and exsurgent viruses. Add 1 to any Stability loss after an unsuccessful
 Stability roll. The difficulty of all tests to resists exsurgent
 viruses is 2 higher for them.
 
+## The Mesh
+
+Most people use the mesh using a mesh insert, implanted into a morph. Unless the morph description states otherwise, a mesh is assumed to have a mesh insert.
+
+### Everyday Use and Research
+
+Most mesh use is everyday, routine and doesn't require tests or spends. All kinds of information is readily available online. Because there is such a wealth of infomation to shift through, finding some specific information might take time, skill or both. In most cases the appropriate skill to use to find something on the mesh is Research, but in cases where the information is specific to some other Ability, knowledge of that Ability might be necessary. For example, knowledge of Medicine includes familiarity with medical databases.
+
+Because most infomation is easily available online, most uses of mesh should not require the use of points from Research. Unless otherwise specified, any normal habitat has at least the following information to search through:
+
+#### Local Conditions
+
+* Local maps showing your current location, annotated with
+local features of personal interest (according to your personal
+preferences and filters) and your distance from them/directions
+to them. Details regarding private and restricted areas (government/hypercorp areas, maintenance/security infrastructure, etc.)
+are usually not included without authorization.
+* Current habitat life support (climate) conditions including atmospheric pressure, composition, and temperature.
+* Current solar system and habitat orbit maps with trajectory
+plots, distances, and communication delays.
+* Local businesses/services, directions, and details.
+
+#### Local Mesh
+
+* Public search engines, databases, mesh sites, blogs, forums, and
+archives, along with new content alerts.
+* Syndicated public newsfeeds in a variety of formats, filtered
+according to your preferences.
+* Sensor/spime feeds (mostly audio-visual) from any public area
+of the habitat.
+* Private network resources (including tactical nets).
+* Automatic searches for new online references to your name and
+other subjects of interest.
+* E-tags pertaining to local people, places, or things.
+* Facial/image recognition searches of public mesh feeds and
+archives to match a photo or video still.
+
+#### Personal Information
+
+* Morph status indicators (medical and/or mechanical): blood
+pressure, heart rate, temperature, white cell count, nutrient
+levels, implant status and functionality, etc.
+* Location, functionality, sensor feeds, and status reports of your
+possessions (via sensors and transmitters in these possessions).
+* Access to one’s life-spanning personal audio-visual/XP archive.
+* Access to one’s life-spanning personal file archive (music, software, media, documents, etc.).
+* Credit account status and transactions.
+
+#### Social Networks
+
+* Communications account status: calls, messages, files, etc.
+* Reputation score and feedback
+* Social network status, friend updates.
+* Updated event calendar and alerts.
+* The public social network profiles of those around you.
+* The location and status of those nearby and involved in the
+same AR games as you.
+
+### The Muse
+
+In most cases characters don't need to be practiced in the use of mesh, because almost all connected individuals have a muse to take care of their mundane mesh-related needs. Muses are intelligent AIs that work as personal aides. They usually reside within a characters mesh inserts. Muses can:
+
+* Use Research on your behalf. Muses have a Research score of 0, but are considered proficient in Research.
+* Falsify or fluctuate your mesh ID.
+* Scan newsfeeds and mesh updates for keyword alerts.
+* Monitor your mesh inserts/ecto/PAN and slaved devices for intrusion.
+* Teleoperate and command robots.
+* Launch countermeasures against intruders.
+* Monitor your rep scores and alert you to drastic changes.
+* Automatically provide feedback for other people’s rep scores.
+* Run audio input through an online, real-time language translation system.
+* Put you in privacy mode and/or proactively stealth your wireless signal.
+* Track people for you.
+* Anticipate your needs and act accordingly, pre-empting your requests.
+
+### Privacy and Surveillance
+
+By default most of what people do on the mesh is public. Social media profiles, public camera data and other sources of online presence can be used to keep track of what people are up to. Most people also publish their location data more or less publicly. Privacy is simply a thing most people don't consider important. Of course, there are exceptions: it's hard to belong to a secret organization fighting against existential threats without keeping some secrets.
+
+#### Tracking
+
+People can be physically tracked by using the trail they leave online. By default, people can be found through their mesh profile. It doesn't take any particular skill and anybody with access to mesh can do it. Tracking people that don't want to be found is more difficult, but not impossible. Finding where and when somebody last used the mesh requires using Research, with a 1 point spend if they are taking particular care of hiding their activity.
+
+Even people not using the mesh can be tracked by using public cameras and sensors. Whether this is possible depends on whether the target has been in range of any sensors. Tracking people like this may require using Research, require spends from Research or other Abilities or be impossible, if the target has not been in range of any sensors.
+
+#### Anonymity and Encryption
+
+Users can go into privacy mode, hiding their presence on the mesh. This does not require any special skill, and anybody can do it. Users in privacy mode can't be automatically found from the mesh, but they can be still tracked by skilled users (see previous chapter).
+
+Users can also falsify their mesh ID, making it anonymous. This is often illegal, but makes tracking very difficult. Anybody can ask their [Muse](#the-muse) to falsify their identity. Tracking an anonymous user requires first using the Research skill to identify the trail being tracked. Then, the tracker must succeed in a Infosec Test against Difficulty 6 or the defenders Infosec Test result, whichever is higher. Tracking the target in real-time is still impossible, but anyone succeeding in this test can construct a trail of the mesh ID's their target has been using.
+
+Characters with Cryptography can encrypt all their communications. Encrypted communications can only be accessed by parties of the character's choosing. Encryption is next to impossible to break, usually requiring quantum computers and lots of time. More often, the old methods of blackmail, threats and bribes are more effective.
+
+### Misusing the Mesh
+
+#### Intrusion
+
+Characters practiced in Infosec can bypass firewalls, crack security systems and generally do things  that they aren't supposed to. Most uses of Infosec should be simple Tests with a Difficulty ranging from 4 to 12, assuming the character has the required gear and isn't being thwarted by someone or something. The test usually takes something from a few seconds to a few minutes. This kind of use is especially appropriate for opening doors, bypassing alarms and so on.
+
+In situations where the system is defended by active firewalls, security AIs or other hackers, the situation becomes a [contest](#contests). If the defender doesn't know that they are being hacked, the contest starts without them knowing about the opposition. The character trying to hack into a system always starts the contest. Trying to hack into very secure systems may give the defender an advantage on the contest, raising the Difficulty of the attacker to 5, 6 or even higher. Success for the attacker means that the they succeed in intruding the system without being detected, while failure means they are detected and locked out of the system.
+
+#### Subversion
+
+An attacker that has succeeded in intruding a system can use it in a variety of manners, intended and unintended. Generally, using a system according to it's normal operating parameters doesn't require a test. Interfering with normal operations, locking out other users and otherwise tampering with a system requires an Infosec Test with a Difficulty dependent on what is being attempted. Some examples are given below.
+
+--------------------------------------------------------------------------------------
+Difficulty        Hacking Bots/Vehicles
+----------------- --------------------------------------------------------------------
+No Test required  Give orders to drones
+
+Difficulty 4      Alter sensor system parameters, disable sensors or weapon systems
+
+Difficulty 6      Alter smartlink input, send false data to AI or teleoperator
+
+Difficulty 8      Lockout AI or teleoperator, seize control via puppet sock
+-------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------
+Difficulty        Hacking Ectos/Mesh Inserts
+----------------- -------------------------------------------------------------------
+No Test required  Interact with entoptics, befriend everyone in range, make online
+                  purchases using user’s credit, intercept communications, log activity
+
+Difficulty 4      Alter social network profile/status, adjust AR filters, tweak sensory
+                  interface, change AR skin, change avatar, access VPN
+
+Difficulty 6      Block or shuffle senses, inject AR illusions, spoof commands to
+                  drones/slaved devices
+
+Difficulty 8      Boot user out of AR
+-------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------
+Difficulty        Hacking Habitat Systems
+----------------- -------------------------------------------------------------------
+No Test required  Open/close doors, stop/start elevators, operate intercom
+
+Difficulty 4      Adjust temperature/lighting, disable safety warnings, 
+                  replace entoptic skin, lock doors, switch traffic timers
+
+Difficulty 6      Disable subsystems (plumbing, recycling, etc.), disable wireless
+                  links, dispatch repair crews
+
+Difficulty 8      Override safety cutoffs
+-------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------
+Difficulty        Hacking Security Systems
+----------------- -------------------------------------------------------------------
+No Test required  Move/manipulate cameras/sensors, locate security 
+                  systems/guards/bots
+
+Difficulty 4      Adjust patterns of sensor sweeps, view security logs,
+                  disable weapon systems
+
+Difficulty 6      Delete security logs, dispatch security teams
+
+Difficulty 8      Disable alerts
+-------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------
+Difficulty        Hacking Simulspace Systems
+----------------- -------------------------------------------------------------------
+No Test required  View current status of simulspace, simulmorphs, and accessing egos
+
+Difficulty 4      Change domain rules, add cheats, alter parameters of story,
+                  alter simulmorphs, change time dilation
+
+Difficulty 6      Eject simulmorph, alter/erase character AIs
+
+Difficulty 8      Abort simulation
+-------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------
+Difficulty        Hacking Spimes
+----------------- -------------------------------------------------------------------
+No Test required  Get status report, use device functions
+
+Difficulty 4      Adjust AI/voice personality settings, adjust timed operation 
+                  schedule
+
+Difficulty 6      Disable sensors, disable device functions
+-------------------------------------------------------------------------------------
+
 ## Regaining Pool Points
 
 Spent points from various pools are restored at different rates,

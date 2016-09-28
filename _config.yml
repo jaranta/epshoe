@@ -26,6 +26,20 @@ pages_list:
         Archive: '/archive'
         Feed: '/atom.xml'
         
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "post"
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "scenarios" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "article"
+        
 # Collections
 collections:
     scenarios:

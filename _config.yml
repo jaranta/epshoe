@@ -43,3 +43,14 @@ defaults:
 collections:
     scenarios:
         output: true
+
+# Prose configurations
+prose:
+  media: 'assets/images'
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""

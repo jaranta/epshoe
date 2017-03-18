@@ -3,17 +3,19 @@ layout: page
 title: Running Ego Hunter with EclipseSHOE
 ---
 
-CC-BY-NC-SA
+CC-BY-NC-SA Posthuman Studios
 
-#Clues
+# Clues
 
-##Essential Clues (0 spend)
+Each heading follows the ones in the published adventure and lists GUMSHOE versions of the tests needed to get the information mentioned.
 
-###Achjima On the Move
+## Essential Clues (0 spend)
+
+### Achjima On the Move
  
 * Research
 
-###Looking for Achjima
+### Looking for Achjima
 
 * G-Rep for Triad connection name and for T-Faktor
  - +1 to find Dolma Gope
@@ -26,32 +28,32 @@ CC-BY-NC-SA
    - Find out that Achijima was looking for Scott Wai
    - +1 Scott Wai hasn’t been seen in over a day
 
-###The Bar D'Ville
+### The Bar D'Ville
 
 * G-Rep
 * drink buying
 
-###Contact T-Faktor
+### Contact T-Faktor
 
 * G-Rep or @-Rep to meet
 * Flattery / Flirting to persuade
 * Negotiation to hire
 
-###Research Scott Wai
+### Research Scott Wai
 
 * Research
 
-###Investigate Air Plant
+### Investigate Air Plant
 
 * Perception
 * Engineering (or equivalent)
 
-###Credit History
+### Credit History
 
 * Research -> Investigation
 * Infosec
 
-###Air Plant (At War With Myself)
+### Air Plant (At War With Myself)
 
 * Perception to find
 * Investigation 1 / Engineering 1 to shorten time
@@ -60,50 +62,50 @@ CC-BY-NC-SA
 * Achijima B6 attack
  - Achijima’s trap: Athletics diff 4
 
-##Extra Clues
+## Extra Clues
 
-###Breaking News
+### Breaking News
 
 * Perception 1 / Programming 1 / Research 1
 
-###The Serial Number
+### The Serial Number
 
 * Research 1, Infosec 1
 * Infosec 1 / Hardware 1
 * Athletics diff 6 to avoid spores if character was ready to avoid
 
-###The Fungus
+### The Fungus
 
 * Biology 1 / Xenobiology 1
 
-###Achjima's Lab
+### Achjima's Lab
 
 * Distract/draw off investigators: Bureacracy 1 / Impersonate 1
  - Other Interpersonal skills with plausible use: 2
 * Investigation 1
 
-###Achjima's Home Network
+### Achjima's Home Network
 
 * All forks have automatic access to the network
 * Perception 1 to access encrypted file
 * Nonny has access and can be activated for free
 
-###Kjell Hoff's Murder
+### Kjell Hoff's Murder
 
 * Research 1 / C-Rep 1
 
-###Kartika
+### Kartika
 
 * Research 1
 * I-Rep 1 / C-Rep 1 / Research 1
 
-###Nkeka’s Options
+### Nkeka’s Options
 
 * Can use I-Rep instead of other rep, but takes more time
 
-##Floating Clues
+## Floating Clues
 
-###Achjima Comes Calling (B8)
+### Achjima Comes Calling (B8)
 
 * Distract
   - Contact militia
@@ -113,178 +115,178 @@ CC-BY-NC-SA
   - Run down in a car
   - Hire a group of thugs
 
-###The Triad Comes Calling
+### The Triad Comes Calling
 
 * 4 armed Triad soldiers
 * Negotiation / Reassurance to get free if they agree to Xie’s terms
 
-###The Militia Comes Calling
+### The Militia Comes Calling
 
 * Reassurance / Bureacracy to get free, more spends to get free faster
 
-#Enemies
+# Enemies
 
-##Achijima B6/8
+## Achijima B6/8
 
-###General Abilities
+### General Abilities
 
 Athletics 3, Melee Combat 1, Health 6, Shooting 3
 
-###Hit Treshold
+### Hit Treshold
 
 3
 
-###Alertness Modifier
+### Alertness Modifier
 
 +1
 
-###Stealth Modifier
+### Stealth Modifier
 
 +0
 
-###Damage Modifier
+### Damage Modifier
 
 0 (stun baton), +1 (pistol)
 
-##Triad Enforcer
+## Triad Enforcer
 
-###General Abilities
+### General Abilities
 
 Athletics 5, Driving 2, Melee Combat 6, Health 5, Shooting 4
 
-###Hit Treshold
+### Hit Treshold
 3
 
-###Alertness Modifier
+### Alertness Modifier
 
 +0
 
-###Stealth Modifier
+### Stealth Modifier
 
 +0
 
-###Damage Modifier
+### Damage Modifier
 
 -2 (fist), -1 (expendable baton), +1 (pistol)
 
-##Militia Trooper
+## Militia Trooper
 
-###General Abilities
+### General Abilities
 
 Athletics 6, Driving 4, Melee Combat 7, Health 6, Shooting 5
 
-###Hit Treshold
+### Hit Treshold
 
 3
 
-###Alertness Modifier
+### Alertness Modifier
 
 +1
 
-###Stealth Modifier
+### Stealth Modifier
 
 +0
 
-###Damage Modifier
+### Damage Modifier
 
 -2 (fist), 0 (stun baton), +1 (pistol)
 
-###Armor
+### Armor
 
 - 2 vs. bullets, -1 vs. other
 
-##Sentry Bot
+## Sentry Bot
 
-###General Abilities
+### General Abilities
 
 Athletics 3, Health 6, Shooting 6
 
-###Hit Treshold
+### Hit Treshold
 
 3
 
-###Alertness Modifier
+### Alertness Modifier
 
 +2
 
-###Stealth Modifier
+### Stealth Modifier
 
 +0
 
-###Damage Modifier
+### Damage Modifier
 
 +2 (seeker rifle)
 
-###Armor
+### Armor
 
 -2 vs. bullets, -1 vs. others
 
-##Creepy
+## Creepy
 
-###General Abilities
+### General Abilities
 
 Athletics 4, Melee Combat 4, Health 2
 
-###Hit Treshold
+### Hit Treshold
 
 3
 
-###Alertness Modifier
+### Alertness Modifier
 
 +0
 
-###Stealth Modifier
+### Stealth Modifier
 
 +2
 
-###Damage Modifier
+### Damage Modifier
 
 no damage (hypodermic needle containing Twitch, requires a health 4 test or incapacitates)
 
-##Guardian Angel
+## Guardian Angel
 
-###General Abilities
+### General Abilities
 
 Athletics 6, Health 4, Shooting 4
 
-###Hit Treshold
+### Hit Treshold
 
 3
 
-###Alertness Modifier
+### Alertness Modifier
 
 +2
 
-###Stealth Modifier
+### Stealth Modifier
 
 +0
 
-###Damage Modifier
+### Damage Modifier
 
 +1 (pistol)
 
-###Armor
+### Armor
 
 -2 vs. bullets, -1 vs. others
 
-##Smart Monkey
+## Smart Monkey
 
-###General Abilities
+### General Abilities
 
 Athletics 10, Melee Combat 6, Health 4
 
-###Hit Treshold
+### Hit Treshold
 
 4
 
-###Alertness Modifier
+### Alertness Modifier
 
 +1
 
-###Stealth Modifier
+### Stealth Modifier
 
 +1
 
-###Damage Modifier
+### Damage Modifier
 
 -2 (fist), -1 (vibroblade)

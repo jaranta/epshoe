@@ -3,11 +3,11 @@ layout: page
 title: Running Glory with EclipseSHOE
 ---
 
-CC-BY-NC-SA
+CC-BY-NC-SA Posthuman Studios
 
-#Meeting Ming
+# Meeting Ming
 
-##Professor Magnus Qiao-Sen Ming
+## Professor Magnus Qiao-Sen Ming
 
 **Appearance:** Vaguely Asian menton morph with receding hairline in his 30's, but with the air of someone older.
 
@@ -15,7 +15,7 @@ CC-BY-NC-SA
 
 **Networking:** mid @-rep, low e-rep, high i-rep, high r-rep
 
-##Ming's Briefing:
+## Ming's Briefing:
 
 > Firewall needs you to find a missing agent, Tara Yu. To the best of our knowledge, Yu was most recently investigating the current whereabouts of military computer hardware recovered from a station in Earth orbit that was destroyed during the Fall, in the Battle of L4.
 > Yu has been missing for over a month now. Long silences are not unusual during some of her undercover research missions, but she missed her last scheduled check-in. Last we knew, she was on Locus. We need you to track her down, ascertain her status if alive, recover her cortical stack if dead, and if necessary continue or assist her search for the missing hardware.
@@ -28,9 +28,9 @@ Other info:
     + Yu was looking for hardware fragments from a TITAN known as Myrmidon
     + Yu believed that the Myrmidon hardware was no longer in the inner system
  
-#Pursuing Leads
+# Pursuing Leads
 
-##Researching Tara Yu
+## Researching Tara Yu
 
 * No publicly accessible lifelog
 * Kept a low profile on the mesh
@@ -42,7 +42,7 @@ Other info:
         * Slightly over a month ago, she egocast to Locus (core clue)
         * Yu sent several forks to Vishnukam station on Earth orbit in the past several months (Research 1)
 		
-###Checking Social Networks
+### Checking Social Networks
 
 * **@-rep, r-rep or i-rep:** Yu received big favors both from Mason Wang and Morteza Bey in the past 2 months (moderate favor, cost is 1 lower if using Yu's list of associates)
 	- Figuring out where Yu egocast from Locus:
@@ -51,7 +51,7 @@ Other info:
 * **C-rep:** Yu interviewed the Air Marshall and several government officials and researched the White Khanhs crime gang (low favor)
 * **G-rep**: Yu used her networking connections to track down and talk to someone named Nia Zheng (moderate favor) and was investigating White Khanh activities in the outer system (High favor) and took a special interest in the gang's craft, *Song Cai Flower* (Expensive favor). (All this information is available on 1 test, reveal information based on the total result.)
 
-###Legwork
+### Legwork
 
 If all else fails, it is possible to figure out where Tara Yu went by persistence and legwork.
 
@@ -59,7 +59,7 @@ Figuring out where Yu traveled can be found out by asking around on Locus or sea
 
 Finding *Kesyrah* is possible by calculating its trajectory from Casa Arturo with Astronomy or Physics (core clue). The calculations take several hours of figuring out how Casa Arturo has moved since the launch. Finding *Song Cai Flower* from the final destination takes some sweeping, from few days (Investigation, core clue) to few hours (Investigation 1).
 
-##Researching the White Khanhs
+## Researching the White Khanhs
 
 Mesh research uncovers all kinds of rumors and information. The short version: The White Khanhs started out as Hanoi triad and survived the Fall. Mostly Vietnamese, Laotian and Cambodian.
 
@@ -73,7 +73,7 @@ More information with Investigative Abilities and Networking:
     - The location of *Song Cai Flower* (High favor)
 	- It is difficult to find members of the gang. Sammy Li used to be involved with the gang (Minor favor)
 	
-##Mason Wang
+## Mason Wang
 
 **Appearance:** South-East Asian hibernoid morph with striking good looks and charming smile.
 
@@ -114,7 +114,7 @@ Under extreme duress, or if questioned about the month he spent isolated, Wang w
 
 Wang is curious and will try to question/track the investigators.
 
-##Morteza Bey
+## Morteza Bey
 
 Can be found from **Xiu's Greenhouse**, an anarchist hydroponics outfit near Locus.
 
@@ -185,7 +185,7 @@ Bey managed to capture some external photos and nanobug footage that he will sha
 > but never spots Yu. He then passes through the room
 > into another module.
 
-##Nia Zheng/Sammy Li
+## Nia Zheng/Sammy Li
 
 **Appearance:** Asian pleasure pod. Tiny, short hair, big eyes.
 
@@ -220,7 +220,7 @@ What Zheng knows:
 * Security procedures
 * Number of gang members (8), and description of all of them 
 
-##Patrona Vasquez (Floating Clue)
+## Patrona Vasquez (Floating Clue)
 
 **Character:** All business, no humor. Very sharp at reading people, likes to point out what she reads.
 
@@ -246,9 +246,9 @@ Vasquez wants to know:
 
 Vasquez will part with her information with the use of Negotiation (core clue) and promise that the investigators will fill her in after the mission. Remind the players that talking with Vasquezn might not sit well with Firewall. 
 
-#Investigating the *Song Cai Flower*
+# Investigating the *Song Cai Flower*
 
-##Casa Arturo
+## Casa Arturo
 
 In the Paloma Negra neighborhood of the Jovian Greeks.
 
@@ -257,12 +257,12 @@ In the Paloma Negra neighborhood of the Jovian Greeks.
 * Has a mining, foundry, shipbuilding, egocasting and resleeving facilities (bouncer morphs common)
 * Population 1200, speaks Spanish, English and Mandarin
 
-##Getting to the *Flower*
+## Getting to the *Flower*
 
 * **@-rep** (moderate favor) to borrow a small spacecraft
 * If asked, Ming will use Firewall influence to get a transport
 
-##The *Kesyrah*
+## The *Kesyrah*
 
 * Small Lander and Orbit Transfer Vehicle (SLOTV)
 * Is anchored and blends against a small ice asteroid
@@ -271,7 +271,7 @@ In the Paloma Negra neighborhood of the Jovian Greeks.
 * Starboard airlock has been cut open with a plasma torch
 * The ship has been ransacked, Yu and Bey's gear floats everywhere and Bey's flexbot morph is broken in the cockpit
 
-##The *Song Cai Flower*
+## The *Song Cai Flower*
 
 * Typical pre-Fall-era freighter
 * **Engineering**: several additional fusion rockets have been attached to the ship's frame
@@ -285,7 +285,7 @@ In the Paloma Negra neighborhood of the Jovian Greeks.
 	* A locked in character will also be exposed to the [AOK hack](#aok-hack)
 * The inside of the ship is monitored by Wei. Characters need to test Infiltration against difficulty 4 whenever they do something that Wei might notice or when they enter the [ops center](#ops-center)
 
-###Wei
+### Wei
 
 Wei is Vo's custom security muse and simulspace love doll. She looks like a tall, sultry Chinese woman.
 
@@ -296,41 +296,41 @@ Infosec 8, only usable for defending the ship
 
 Because Wei is confused by Glory, she can only use a maximum of 1 point of Infosec to tests.
 
-###1. Docking Spar
+### 1. Docking Spar
 
-###2. Utility Bay
+### 2. Utility Bay
 
-###3. Reactor Module
+### 3. Reactor Module
 
-###4. Life Support Pod
+### 4. Life Support Pod
 
-###5. Solar Panel
+### 5. Solar Panel
 
-###6. Greenhouse/Recycling
+### 6. Greenhouse/Recycling
 
-####6A. Recycling Vats
+#### 6A. Recycling Vats
 
-####6B. Plant Beds
+#### 6B. Plant Beds
 
-####6C. Carniculture Vats
+#### 6C. Carniculture Vats
 
-####6D. Engine Room
+#### 6D. Engine Room
 
-###7. Ops Center
+### 7. Ops Center
 
-###8. Machine Shop/Drone Bay
+### 8. Machine Shop/Drone Bay
 
-###9. Crew Torus
+### 9. Crew Torus
 
-####9A. Med Bay/Resleeving Center
+#### 9A. Med Bay/Resleeving Center
 
-####9B. Rec Area/Kitchen
+#### 9B. Rec Area/Kitchen
 
-####9C. Crew Quarters
+#### 9C. Crew Quarters
 
-#Glory
+# Glory
 
-##AOK Hack
+## AOK Hack
 
 The AOK hack only affects characters that have 1 or more points in Engineering, Programming, or 8 or more points in Hardware.
 
@@ -340,15 +340,15 @@ If the player wins, nothing happens (this time). If they tie, they can spend 1 p
 
 The AOK hack infection manifests as an overpowering urge to build a Glory nanobot hive. This compulsion can be treated 3 days within the infection with Psychosurgery (difficulty 6 test). The patient must test against losing 3 Stability.
 
-##Physical Infection
+## Physical Infection
 
 Characters become physically infected by exchanging bodily fluids or by being exposed to nanobots from a hive. In some cases characters may test Athletics to avoid splattering blood etc.
 
-#The Exsurgents
+# The Exsurgents
 
 Encountering the Exsurgents requires a cost 7 Stability test.
 
-##Breeders (5: Bian, Bui, Quang, Sang, and Thanh)
+## Breeders (5: Bian, Bui, Quang, Sang, and Thanh)
 
 **General Abilities:** Athletics 10, Deep Scan 5, Ego Sense 5, Health 6, Melee Combat 6, Shooting 8, Psychic Stab 6
 
@@ -362,7 +362,7 @@ Encountering the Exsurgents requires a cost 7 Stability test.
 
 **Stealth Modifier:** +2
 
-##Drones (6: Diên, Nong, Quy, Sit, Smith, and Wu)
+## Drones (6: Diên, Nong, Quy, Sit, Smith, and Wu)
 
 **Morph:** Bouncer
 
@@ -378,7 +378,7 @@ Encountering the Exsurgents requires a cost 7 Stability test.
 
 **Stealth Modifier:** -1
 
-##Ji
+## Ji
 
 **Morph:** Ghost
 
@@ -394,7 +394,7 @@ Encountering the Exsurgents requires a cost 7 Stability test.
 
 **Stealth Modifier:** +2
 
-##Dexter Vo
+## Dexter Vo
 
 **Morph:** Bouncer
 
@@ -410,7 +410,7 @@ Encountering the Exsurgents requires a cost 7 Stability test.
 
 **Stealth Modifier:** +0
 
-##The Mother
+## The Mother
 
 **General Abilities:** Health 16, Psychic Stab 8, Melee Combat 4
 

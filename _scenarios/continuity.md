@@ -3,9 +3,9 @@ layout: page
 title: Running Continuity with EclipseSHOE
 ---
 
-CC-BY-NC-SA
+CC-BY-NC-SA Posthuman Studios
 
-##Character Creation
+## Character Creation
 
 General Abilities not used in this scenario:
 
@@ -21,7 +21,7 @@ Suggestions for character generation:
 
 * Encountering the Exsurgents takes a lot of Stability. Characters should aim for at least 10 Stability.
 
-##Tests and Spends
+## Tests and Spends
 
 * Any Perception test can be succesfully completed by spending 1 point from the Investigative Ability Perception.
 * Enabling the devices on board Kepler by testing Hardware. The Difficulty ranges from 3 to 6.
@@ -34,7 +34,7 @@ Suggestions for character generation:
 * Manouvering through chrysacid spur-infested areas of Istari requires either a Difficulty 3 or Difficulty 6 Athletics test, depending on how tight the space is. Ask to roll only once for each space. Once a route is found, it is easier to follow it again.
 * Using the missile launchers requires hacking them with a Difficulty 4 Infosec test. Hitting any targets with the missiles requires a Gunnery Test, usually with a Difficulty of 4. Disabling the minimum-detonation range requires a Difficulty 4 Hardware test or the override code from Lila.
 
-##Losing Air
+## Losing Air
 
 Without proper gear, biomorphs will start freezing in 20 minutes. After that, they lose 1 Health every five minutes or after each scene, whichever is easier to use.
 
@@ -44,9 +44,9 @@ After about an hour, biomorphs will begin to suffocate. They start losing 1 Athl
 
 Note the radical shift in time scales. Make sure to warn the players about what is going to happen.
 
-##Robots
+## Robots
 
-###Dr. Bot
+### Dr. Bot
 
 **General Abilities:** Athletics 4, Health 6, Medic 6
 
@@ -60,7 +60,7 @@ Note the radical shift in time scales. Make sure to warn the players about what 
 
 **Stealth Modifier:** -1
 
-###Automech
+### Automech
 
 **General Abilities:** Health 4, Hardware 6
 
@@ -74,7 +74,7 @@ Note the radical shift in time scales. Make sure to warn the players about what 
 
 **Stealth Modifier:** -1
 
-###Servitor Bot
+### Servitor Bot
 
 **General Abilities:** Athletics 4, Health 4, Hardware 6
 
@@ -88,7 +88,7 @@ Note the radical shift in time scales. Make sure to warn the players about what 
 
 **Stealth Modifier:** -1
 
-###Vector-Thrust Dwarves
+### Vector-Thrust Dwarves
 
 **General Abilities:** Athletics 6, Health 10, Demolitions 6, Hardware 2
 
@@ -102,9 +102,9 @@ Note the radical shift in time scales. Make sure to warn the players about what 
 
 **Stealth Modifier:** -1
 
-##The Chrynalus Virus
+## The Chrynalus Virus
 
-###Digital Infection
+### Digital Infection
 
 Test against the infection if running on the same system as the digital virus. Points can be used from Sense Trouble and Stability. Difficulty is d6 + 3. Do not tell the difficulty to the player!
 
@@ -116,7 +116,7 @@ Infected AI's and infomorphs can reboot to fight the infection. It takes them 1 
 
 Infected AI's, infomorphs and cyberbrains lose 1d6 - 1 Stability per hour.
 
-###Aural Basilisk Hack
+### Aural Basilisk Hack
 
 Can be played at normal speed or slowed down, making it very hard to notice for unaugmented ears.
 
@@ -124,7 +124,7 @@ When encountering the basilisk hack, test against the infection. Sense Trouble a
 
 If the player wins, nothing happens (this time). If they tie, they can spend 1 point from Sense Trouble or Stability to win the contest. Otherwise, they are catatonic for 1 minute + 1 minute for each point they lost the roll by.
 
-###Nanoplague
+### Nanoplague
 
 Any morph that comes into contact with a nanoplague is considered infected.
 
@@ -136,11 +136,11 @@ Three stages of infection:
 
 At the end of this time the biomorph has succumbed to the growth, but the chrysacid growths live on.
 
-##Exsurgents
+## Exsurgents
 
 Note that it is intentional that none of the Exsurgents have armor. The characters have only light weapons. If the enemies would have armor, the fights would slow down into a crawl, which is boring and detrimental to the atmosphere of the scenario.
 
-###Infected
+### Infected
 
 The original crew members of the Kepler. They retain some of the qualities of the original characters, but for ease of play they are here given identical stats. You can change some the stats based on the original character, using these as guidelines.
 
@@ -156,7 +156,7 @@ The original crew members of the Kepler. They retain some of the qualities of th
 
 **Stealth Modifier:** +1
 
-Locations:
+#### Locations:
 
 1. Moves over from Istari to Kepler when the ships dock
 2. Moves over from Istari to Kepler when the ships dock
@@ -169,17 +169,17 @@ Locations:
 
 If there are less than 8 player characters, leave out the last ones.
 
-###Chrysacid Forms
+### Chrysacid Forms
 
 Encountering chrysacid forms for the first time causes a 7 point Stability test.
 
 Whenever a character presses against a chrysacid form, they receive d6 - 1 damage. Receiving a wound from contact infects them with the Chrynalus virus.
 
-####Spurs
+#### Spurs
 
 Dangerous only if bumped into.
 
-####Limbs
+#### Limbs
 
 Attack anything that comes close by grapping and pinching.
 
@@ -195,7 +195,7 @@ Attack anything that comes close by grapping and pinching.
 
 **Stealth Modifier:** na
 
-####Spiders
+#### Spiders
 
 Attack only if forced out of the shadows or forced into a corner.
 
@@ -211,12 +211,12 @@ Attack only if forced out of the shadows or forced into a corner.
 
 **Stealth Modifier:** +1
 
-##Spoiler-Free Images
+## Spoiler-Free Images
 
-###Kepler
+### Kepler
 
 ![Kepler]({{ site.baseurl }}/assets/images/kepler.png)
 
-###Istari
+### Istari
 
 ![Istari]({{ site.baseurl }}/assets/images/istari.png)

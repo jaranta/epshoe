@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Waiting for Eclipse Phase 2.0
 ---
 You might have noticed that [Posthuman Studios is working on Eclipse Phase 2.0](http://eclipsephase.com/eclipse-phase-second-edition-be-released-2017) and is about to publish it in 2017.

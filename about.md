@@ -9,7 +9,7 @@ GUMSHOE rules enable players to focus on mysteries and investigations in their g
 
 # Contributing
 
- You can contribute by playtesting, commenting and giving [feedback](https://github.com/gitkrax/epshoe/issues).
+ You can contribute by playtesting, commenting and giving [feedback](https://github.com/jaranta/epshoe/issues).
 
 # Download
 

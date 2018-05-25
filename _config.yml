@@ -4,19 +4,19 @@ permalink:        pretty
 # Setup
 title:            EclipseSHOE
 tagline:          
-url:              https://gitkrax.github.io/epshoe/
+url:              https://jaranta.github.io/epshoe/
 paginate:         3
 pagination_path:  page:num # makes pages sub/page2/index.html, sub/page3/index.html, etc
 baseurl:          /epshoe
 author:
   name:           Jonne Arjoranta
   url:            jonne.arjoranta.fi
-  email:          jonne.arjoranta@gmail.com
+  email:          jonne@arjoranta.fi
 
 # Custom vars
 version:          0.0.1
 github:
-repo:             https://github.com/gitkrax/epshoe
+repo:             https://github.com/jaranta/epshoe
 
 # Page list for the page navigation
 pages_list:
